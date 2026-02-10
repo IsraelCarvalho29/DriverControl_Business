@@ -84,4 +84,4 @@ erDiagram
     VEICULO ||--o{ MANUTENCAO : recebe
     VEICULO ||--o{ MULTA : possui
     MOTORISTA ||--o{ MULTA : recebe
-`
+
